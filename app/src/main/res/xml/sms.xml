@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sms_items>
+　　<sms id="1">
+　　　　<sub_id>2</sub_id>
+　　　　<address>18900999999</address>
+　　　　<body>接收正常：TEXT</body>
+　　　　<date>1457612836215</date>
+　　　　<seen>1</seen>
+　　　　<read>1</read>
+　　　　<creator>com.android.messaging</creator>
+　　　　<status>-1</status>
+　　　　<error_code>0</error_code>
+　　　　<type>1</type>
+　　</sms>
+　　<sms id="2">
+　　　　<sub_id>2</sub_id>
+　　　　<address>10086</address>
+　　　　<body>cxye</body>
+　　　　<date>1457941327991</date>
+　　　　<seen>1</seen>
+　　　　<read>1</read>
+　　　　<creator>com.android.messaging</creator>
+　　　　<status>-1</status>
+　　　　<error_code>0</error_code>
+　　　　<type>2</type>
+　　</sms>
+　　<sms id="3">
+　　　　<sub_id>2</sub_id>
+　　　　<address>10086</address>
+　　　　<body>显示余额</body>
+　　　　<date>1457941327991</date>
+　　　　<seen>1</seen>
+　　　　<read>1</read>
+　　　　<creator>com.android.messaging</creator>
+　　　　<status>-1</status>
+　　　　<error_code>0</error_code>
+　　　　<type>1</type>
+　　</sms>
+　　<sms id="4">
+　　　　<sub_id>2</sub_id>
+　　　　<address>18900999999</address>
+　　　　<body>test send</body>
+　　　　<date>1457612836215</date>
+　　　　<seen>1</seen>
+　　　　<read>1</read>
+　　　　<creator>com.android.messaging</creator>
+　　　　<status>-1</status>
+　　　　<error_code>0</error_code>
+　　　　<type>2</type>
+　　</sms>
+</sms_items>
